@@ -1,6 +1,3 @@
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/Paco8/plugin.video.primeran)
-![GitHub all releases](https://img.shields.io/github/downloads/Paco8/plugin.video.primeran/total)
-
 # primeran for Kodi
 
 _This addon is not officially commissioned/supported by Movistar. All product names, logos, and trademarks mentioned in this project are property of their respective owners._
