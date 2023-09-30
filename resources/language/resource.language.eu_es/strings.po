@@ -1,0 +1,264 @@
+# XBMC Media Center language file
+# Addon Name: Orange
+# Addon id: plugin.video.primeran
+# Addon version: 0.0.1
+# Addon Provider: primeran
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: XBMC-Addons\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-28 16:47+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "#30001"
+msgstr "Main"
+msgstr "Nagusia"
+
+msgctxt "#30002"
+msgstr "Proxy"
+msgstr "Proxy"
+
+msgctxt "#30003"
+msgstr "Experimental"
+msgstr "Esperimentala"
+
+msgctxt "#30010"
+msgid "DRM type"
+msgstr "DRM mota"
+
+msgctxt "#30011"
+msgid "Manifest alteration"
+msgstr "Aldatu manifestua"
+
+msgctxt "#30012"
+msgid "Use proxy for license"
+msgstr "Erabili proxy lizentziarako"
+
+msgctxt "#30013"
+msgid "Fix freezes in VOD content"
+msgstr "Konpondu telebistan etenaldiak eskaeraren arabera"
+
+msgctxt "#30016"
+msgid "Proxy timeout (ms)"
+msgstr "Denbora-muga (ms)"
+
+msgctxt "#30017"
+msgid "Show only subscribed content"
+msgstr "Bistaratu harpidetzan sartutako edukia soilik"
+
+msgctxt "#30018"
+msgid "Try to play HD in SD devices"
+msgstr "Saiatu HD-n erreproduzitzen SD gailuetan"
+
+msgctxt "#30019"
+msgid "Configure InputStream Adaptive"
+msgstr "Konfiguratu InputStream Adaptive"
+
+msgctxt "#30020"
+msgid "Add EPG info to TV channels"
+msgstr "Erakutsi une honetan ematen den programa telebista kateetan"
+
+msgctxt "#30021"
+msgid "Download extra info (like posters, actors...)"
+msgstr "Deskargatu informazio gehigarria (adibidez, kartelak, aktoreak...)"
+
+msgctxt "#30022"
+msgid "Report sessions to servers"
+msgstr "Saioen berri zerbitzariei"
+
+msgctxt "#30023"
+msgid "Reuse devices"
+msgstr "Gailuak berrerabili"
+
+msgctxt "#30024"
+msgid "Try to fix error 4027"
+msgstr "Saiatu 4027 errorea konpontzen"
+
+msgctxt "#30025"
+msgid "Send video progress to provider's server"
+msgstr "Bidali aurrerapena plataforma zerbitzariari"
+
+msgctxt "#30031"
+msgid "Streaming service"
+msgstr "Plataforma"
+
+msgctxt "#30032"
+msgid "Preferred server"
+msgstr "Hobestutako zerbitzaria"
+
+msgctxt "#30033"
+msgid "Enable 4K"
+msgstr "Gaitu 4K"
+
+msgctxt "#30034"
+msgid "Fix audio and subtitle language names"
+msgstr "Konpondu hizkuntza-izenak"
+
+msgctxt "#30035"
+msgid "Exclude DD+ audio tracks"
+msgstr "Kendu DD+ audioa"
+
+msgctxt "#30036"
+msgid "Exclude AAC audio tracks"
+msgstr "Kendu AAC audioa"
+
+# SkyOTTentzat soilik
+msgctxt "#30037"
+msgid "Enable HDCP"
+msgstr "Gaitu HDCP"
+
+msgctxt "#30040"
+msgid "Use only for these languages (e.g.: es en pt):"
+msgstr "Erabili hizkuntza hauetarako soilik (adibidez: es en pt):"
+
+# SkyOTTentzat soilik
+msgctxt "#30041"
+msgid "Subscription country (two letter code):"
+msgstr "Harpidetzaren herrialdea (bi letrako kodea):"
+
+msgctxt "#30101"
+msgid "Menu"
+msgstr "Menua"
+
+msgctxt "#30102"
+msgid "My list"
+msgstr "Nire zerrenda"
+
+msgctxt "#30103"
+msgid "Recordings"
+msgstr "Grabaketak"
+
+msgctxt "#30104"
+msgid "Live TV"
+msgstr "Zuzeneko telebista"
+
+msgctxt "#30105"
+msgid "Movies"
+msgstr "Filmak"
+
+msgctxt "#30106"
+msgid "TV shows"
+msgstr "Telebistako saioak"
+
+msgctxt "#30107"
+msgid "EPG"
+msgstr "Programazio gida"
+
+msgctxt "#30108"
+msgid "Manage devices"
+msgstr "Kudeatu gailuak"
+
+msgctxt "#30109"
+msgid "Next page"
+msgstr "Hurrengo orrialdea"
+
+msgctxt "#30110"
+msgid "Previous page"
+msgstr "Aurreko orria"
+
+msgctxt "#30111"
+msgstr "VOD"
+msgstr "Telebista eskaeran"
+
+msgctxt "#30112"
+msgid "Search"
+msgstr "Bilatu"
+
+msgctxt "#30113"
+msgid "New search"
+msgstr "Bilaketa berria"
+
+msgctxt "#30114"
+msgid "Delete search"
+msgstr "Garbitu bilaketa"
+
+msgctxt "#30115"
+msgid "Delete all searchs"
+msgstr "Garbitu bilaketa guztiak"
+
+msgctxt "#30116"
+msgid "Search term"
+msgstr "Bilatzeko terminoa"
+
+msgctxt "#30117"
+msgid "Search results"
+msgstr "Bilaketa emaitzak"
+
+msgctxt "#30120"
+msgid "Documentaries"
+msgstr "Dokumentalak"
+
+msgctxt "#30121"
+msgid "Kids"
+msgstr "Haurrak"
+
+msgctxt "#30122"
+msgid "Continue watching"
+msgstr "Jarraitu ikusten"
+
+msgctxt "#30150"
+msgid "Close session"
+msgstr "Amaitu saioa"
+
+msgctxt "#30151"
+msgid "Delete device"
+msgstr "Ezabatu gailua"
+
+msgctxt "#30152"
+msgid "New device"
+msgstr "Hautatu gailua"
+
+msgctxt "#30153"
+msgstr "Gailu berria"
+msgstr "Gailu berria"
+
+msgctxt "#30154"
+msgid "Device name"
+msgstr "Gailuaren izena"
+
+msgctxt "#30160"
+msgid "Accounts"
+msgstr "Kontuak"
+
+msgctxt "#30161"
+msgid "Add account"
+msgstr "Gehitu kontua"
+
+msgctxt "#30162"
+msgid "Remove account"
+msgstr "Ezabatu kontua"
+
+msgctxt "#30163"
+msgid "Username"
+msgstr "Erabiltzailea"
+
+msgctxt "#30164"
+msgid "Password"
+msgstr "Pasahitza"
+
+msgctxt "#30165"
+msgid "Select account"
+msgstr "Hautatu kontua"
+
+msgctxt "#30166"
+msgid "Login failed"
+msgstr "Hasieran huts egin du"
+
+msgctxt "#30167"
+msgid "Edit account"
+msgstr "Editatu kontua"
+
+msgctxt "#30170"
+msgid "Play from the beginning"
+msgstr "Hasieratik ikusi"
+
+msgctxt "#30171"
+msgid "Record program"
+msgstr "Grabatu programa
